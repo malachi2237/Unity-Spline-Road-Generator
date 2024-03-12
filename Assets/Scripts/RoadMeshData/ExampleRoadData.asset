@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdc96d60aa4eb134fa0eb6af23cd3ea3, type: 3}
+  m_Name: ExampleRoadData
+  m_EditorClassIdentifier: 
+  MeshTemplate: {fileID: -3273100090820773193, guid: 517ed1e1ed31c804cad589389d87ba2f,
+    type: 3}
+  MeshMaterial: {fileID: 2100000, guid: 2bcd1840df2d4e646aca2466e0d02344, type: 2}
+  UpAxis: {x: 0, y: 1, z: 0}
+  ForwardAxis: {x: 0, y: 0, z: 1}
+  DrivableWidth: 10.9728
+  NumberOfLanes: 3
+  OneWay: 1
